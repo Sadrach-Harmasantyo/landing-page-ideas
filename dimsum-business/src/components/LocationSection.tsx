@@ -23,7 +23,7 @@ const LocationSection = () => {
           {/* Map/Location Image */}
           <div className="rounded-lg overflow-hidden shadow-lg">
             <img
-              src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-a71c-61fd-b0d6-9fc788f31a9c/raw?se=2025-05-09T16%3A04%3A03Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=9ccea605-1409-4478-82eb-9c83b25dc1b0&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T12%3A13%3A07Z&ske=2025-05-10T12%3A13%3A07Z&sks=b&skv=2024-08-04&sig=pdyapMM/TCXsQ%2BDepZkIbaKo7wcUxyJnCHprgud5wo0%3D"
+              src="https://images.unsplash.com/photo-1721332978552-3aef56d52098?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGltc3VtJTIwc3RvcmV8ZW58MHx8MHx8fDA%3D"
               alt="Restaurant location"
               className="w-full h-96 object-cover"
             />
