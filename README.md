@@ -7,7 +7,9 @@ A curated collection of modern, responsive landing page templates for various bu
 ## 🌟 Featured Projects
 
 ### 🍜 Dim Sum Delight
+
 A mouth-watering landing page for a premium dim sum restaurant, featuring:
+
 - Responsive design with mobile-first approach
 - Smooth scroll navigation
 - Interactive menu showcase
@@ -15,12 +17,24 @@ A mouth-watering landing page for a premium dim sum restaurant, featuring:
 - Online ordering system
 
 ### 🦷 Dental Clinic
+
 A professional landing page for dental practices, featuring:
+
 - Modern, clean design that inspires trust
 - Service showcase with detailed information
 - Team member profiles
 - Patient testimonials carousel
 - Online appointment booking system
+
+### 🍵 Pure Leaf - Ice Tea Business
+
+A refreshing landing page for a premium ice tea brand, featuring:
+
+- Parallax scrolling effects with dynamic background elements
+- Interactive flavor showcase with smooth transitions
+- WhatsApp integration for direct ordering
+- Responsive design that works on all devices
+- Modern UI with emerald color scheme and wave patterns
 
 ## 💻 Technologies Used
 
