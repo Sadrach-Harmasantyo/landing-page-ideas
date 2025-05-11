@@ -36,6 +36,16 @@ A refreshing landing page for a premium ice tea brand, featuring:
 - Responsive design that works on all devices
 - Modern UI with emerald color scheme and wave patterns
 
+### 🔧 AutoPartsPro - Automotive Parts Business
+
+A high-performance landing page for premium automotive parts retailer, featuring:
+
+- Sleek, professional design with dynamic animations
+- Product showcase with category
+- Interactive service cards with custom SVG icons
+- Customer testimonials slider
+- Mobile-responsive navigation with search functionality
+
 ## 💻 Technologies Used
 
 - React.js / Vue.js
